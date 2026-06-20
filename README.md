@@ -15,10 +15,8 @@ Este proyecto consiste en un sistema de gestión de tareas desarrollado con Java
 ├── app.js
 ├── README.md
 └── assets
-└── screenshots
-├── ejecucion-1.png
-├── ejecucion-2.png
-└── ejecucion-3.png
+  └── screenshots
+    ├── ejecucion-1.png
 
 app.js: contiene la definición de las clases, la simulación de carga de datos y el flujo principal del programa.
 README.md: documentación del proyecto.
